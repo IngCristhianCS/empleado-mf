@@ -30,6 +30,8 @@ Para iniciar el servidor de desarrollo local, ejecuta:
 ```bash
 ng serve
 
+Abre tu navegador en [http://localhost:4201/](http://localhost:4201/). La aplicación se recargará automáticamente cuando realices cambios en los archivos fuente.
+
 ## Construcción
 
 Para construir el proyecto, ejecuta:
